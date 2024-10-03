@@ -1,0 +1,200 @@
+Query: 0
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.71
+distanceTrue: 676.584
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.64
+distanceTrue: 676.584
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.28
+distanceTrue: 864.504
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.97
+distanceTrue: 864.504
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
+Query: 1
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.709205
+distanceTrue: 1292.118416
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.635113
+distanceTrue: 1292.118416
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.275390
+distanceTrue: 1365.368082
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.971622
+distanceTrue: 1365.368082
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
+Query: 2
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.709205
+distanceTrue: 341.048384
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.635113
+distanceTrue: 341.048384
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.275390
+distanceTrue: 442.757270
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.971622
+distanceTrue: 442.757270
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
+Query: 3
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.709205
+distanceTrue: 1221.582580
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.635113
+distanceTrue: 1221.582580
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.275390
+distanceTrue: 1228.232063
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.971622
+distanceTrue: 1228.232063
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
+Query: 4
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.709205
+distanceTrue: 1092.534668
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.635113
+distanceTrue: 1092.534668
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.275390
+distanceTrue: 1096.045619
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.971622
+distanceTrue: 1096.045619
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
+Query: 5
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.709205
+distanceTrue: 312.121771
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.635113
+distanceTrue: 312.121771
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.275390
+distanceTrue: 389.914093
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.971622
+distanceTrue: 389.914093
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
+Query: 6
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.709205
+distanceTrue: 1302.710636
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.635113
+distanceTrue: 1302.710636
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.275390
+distanceTrue: 1470.664136
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.971622
+distanceTrue: 1470.664136
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
+Query: 7
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.709205
+distanceTrue: 1289.698802
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.635113
+distanceTrue: 1289.698802
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.275390
+distanceTrue: 1396.002507
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.971622
+distanceTrue: 1396.002507
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
+Query: 8
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.709205
+distanceTrue: 1739.138867
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.635113
+distanceTrue: 1739.138867
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.275390
+distanceTrue: 1930.092485
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.971622
+distanceTrue: 1930.092485
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
+Query: 9
+Nearest neighbor-1: 17167
+sidtanceCube: 1146.709205
+distanceTrue: 1146.709205
+Nearest neighbor-2: 32491
+sidtanceCube: 1179.635113
+distanceTrue: 1146.709205
+Nearest neighbor-3: 13359
+sidtanceCube: 1249.275390
+distanceTrue: 1179.635113
+Nearest neighbor-4: 3970
+sidtanceCube: 1250.971622
+distanceTrue: 1179.635113
+tCube: 3675623.000000
+tTrue: 2236536.000000
+R-near neighbors:
+image_number_17167
+image_number_32491
+image_number_13359
+image_number_3970
